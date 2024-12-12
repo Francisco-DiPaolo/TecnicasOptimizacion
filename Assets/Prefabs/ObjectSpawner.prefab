@@ -123,6 +123,7 @@ MonoBehaviour:
   initialSize: 10
   maxSize: 20
   lifeTime: 2
+  spawnFrequency: 0.3
   spawnPoint: {fileID: 70354079396223097}
 --- !u!1 &8813819941499950227
 GameObject:
